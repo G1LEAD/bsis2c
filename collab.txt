@@ -1,2 +1,3 @@
 Hello Owner!
 Hi Best Collaborator!
+printf("gusto ko rin mag dagat now na xD", x);
