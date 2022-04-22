@@ -1,3 +1,7 @@
 Hello Owner!
 Hi Best Collaborator!
+<<<<<<< HEAD
 printf("The area of triangle is: %.2f", x);
+=======
+printf("gusto ko rin mag dagat now na xD", x);
+>>>>>>> 3e9b3130de1dbb891694a4fb908e0d89ec24cafa
